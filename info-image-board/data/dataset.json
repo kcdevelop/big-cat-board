@@ -1,0 +1,148 @@
+{
+    "entries": {
+        "caracal": {
+            "name": "Caracal",
+            "kind":"medium-sized cat",
+            "color": "reddish brown, grey, or a light sandy color—with narrow black line that extends from their eyes to their nose",
+            "length": "2.4 feet long",
+            "weight": "26 pounds",
+            "sound": "meows, growls, hisses, spits, and purrs",
+            "geography": "the Middle East, Africa, and South Asia",
+            "habitat": "rocky hills or grasslands",
+            "food": "a variety of mammals, with the most common being rodents, hares, hyraxes, and small antelope",
+            "background": "caracal.jpg"
+        },
+        "cheetah": {
+            "name": "Cheetah",
+            "kind":"big cat",
+            "color": "tawny or pale buff with evenly spaced, solid black spots",
+            "length": "3.6 and 4.9 feet long",
+            "weight": "44 and 143 pounds",
+            "sound": "growls, purrs chirps (between a mother and her cubs), explosively yelps, moans, and hisses",
+            "geography": "Central/Southern, Eastern and Northwestern Africa",
+            "habitat": "savannas, arid mountain ranges, and hilly desert terrain",
+            "food": "medium-sized ungulates like impala, springbok and Thomson's gazelles",
+            "background": "cheetah.jpg"
+        },
+        "clouded leopard": {
+            "name": "Clouded Leopard",
+            "kind":"medium-sized cat",
+            "color": "ochre, tawny, or silver-gray—with distinctive cloud like markings",
+            "length": "2.7 feet long",
+            "weight": "25–51 pounds",
+            "sound": "purrs, roars (with a low-moaning), chuffles, hisses, growls, and meows",
+            "geography": "Indonesia and as far as the Nepali Himalayas",
+            "habitat": "rain forests and foothills",
+            "food": "gibbons, macaques, slow loris, small deer, wild boars, birds, and rodents",
+            "background": "clouded-leopard.jpg"
+        },
+        "jaguar": {
+            "name": "Jaguar",
+            "kind":"big cat",
+            "color": "rich tawny or yellow with large black rosettes and spots",
+            "length": "5 and 6 feet long",
+            "weight": "100 to 250 pounds",
+            "sound": "growls (saw-like), snuffles (nasally) when greeting or assuring",
+            "geography": "Southwestern United States and Mexico in North America, Central America, Paraguay and Northern Argentina in South America",
+            "habitat": "rain forests and wetlands—they prefer to avoid open forests and grasslands",
+            "food": "capybaras, deer, tortoises, iguanas, armadillos, fish, birds, monkeys and more",
+            "background": "jaguar.jpg"
+        },
+        "leopard": {
+            "name": "Leopard",
+            "kind":"big cat",
+            "color": "light-yellow or all black with distinctive dark spots that are called rosettes",
+            "length": "1.9-2.1 (female) and 2-2.3 (male) feet long",
+            "weight": "51-60 (female) and 68 (male) pounds",
+            "sound": "growls, hisses/spits, snarls, and yowls (raspy)",
+            "geography": "Sub-Saharan Africa, in small parts of Western and Central Asia, a small part of European Russia, and on the Indian sub-continent to Southeast and East Asia",
+            "habitat": "almost any type of habitat, including rain forests, deserts, woodlands, grassland savannas, forests, mountain habitats, coastal scrubs, shrub lands and swampy areas",
+            "food": "antelope, gazelles, impalas, baboons, hares, rodents, birds, lizards, porcupines, warthogs, fish, and dung beetles",
+            "background": "leopard.jpg"
+        },
+        "lion": {
+            "name": "Lion",
+            "kind":"big cat",
+            "color": "nearly white to tawny yellow, ash brown, ochre, and deep orange-brown",
+            "length": "4.5–6 (female) and 5.6–8.2 (male) feet long",
+            "weight": "280 (female) and 420 (male) pounds",
+            "sound": "purrs, grunts, snarls, hums, mews, roars, and moans",
+            "geography": "parts of Sub-Saharan Africa",
+            "habitat": "a variety of habitats but prefer grassland, savanna, dense scrub, and open woodland",
+            "food": "zebra, water buffalo, antelopes, and other medium-to large-sized ungulates",
+            "background": "lion.jpg"
+        },
+        "lynx": {
+            "name": "Lynx",
+            "kind":"medium-sized cat",
+            "color": "tawny, cream colored, or mottled with black spots, long-legs, large-paws, and tufted ears",
+            "length": "2.5–3.5 feet long",
+            "weight": "18–65 pounds",
+            "sound": "mews, spits/hisses, growls, yowls, chatters, gurgles, and purrs",
+            "geography": "Europe and Asia from Scandinavia to Kamchatka",
+            "habitat": "boreal and deciduous forests",
+            "food": "mice, squirrels, and birds, but prefer the snowshoe hare",
+            "background": "lynx.jpg"
+        },
+        "mountain lion": {
+            "name": "Mountain Lion",
+            "kind":"big cat",
+            "color": "tawny, darker reddish-brown, or silver-gray with white chests and bellies",
+            "length": "3.5 and 6.5 feet long",
+            "weight": "75 to 250 pounds",
+            "sound": "growls, hisses (with a low-pitched), purrs, and screams",
+            "geography": "Alaska, Northern Canada, throughout the United States, Chile, and Argentina",
+            "habitat": "coniferous and tropical forests, grasslands, swamps, caves, and deserts (30 to 125 square miles territories)",
+            "food": "large and small mammals such as squirrels, raccoons, armadillos, pigs, deer, coyote, elk, caribou and moose",
+            "background": "mountain-lion.jpg"
+        },
+        "ocelot": {
+            "name": "Ocelot",
+            "kind":"medium-sized cat",
+            "color": "golden over most of its body, with a white belly and black or dark brown spots arranged in a doughnut shape (dark tan in the middle)",
+            "length": "2.2–3.3 feet long",
+            "weight": "18–44 pounds",
+            "sound": "\"chuckles\" (when excited) and \"mutters\"",
+            "geography": "South American and as far north as Texas",
+            "habitat": "brushy forests, semi-arid deserts, tropical forests, mountain slopes, and pampas",
+            "food": "rabbits, rodents, iguanas, fish, and frogs",
+            "background": "ocelot.jpg"
+        },
+        "snow leopard": {
+            "name": "Snow Leopard",
+            "kind":"big cat",
+            "color": "whitish to gray with black spots on head and neck, but larger rosettes on the back, flanks, and bushy tail",
+            "length": "3.6 feet long",
+            "weight": "72 pounds",
+            "sound": "purrs, mews, hisses, growls, moans, and yowls",
+            "geography": "across a vast area in northern and central Asia's high mountains, including the Himalayan region",
+            "habitat": "high alpine areas",
+            "food": "blue sheep (bharal), mountain ibex, as well as marmots, hares, and game birds",
+            "background": "snow-leopard.jpg"
+        },
+        "serval": {
+            "name": "Serval",
+            "kind":"medium-sized cat",
+            "color": "small headed with large ears, a golden-yellow or buff coat—with black spots/stripes; black-tipped tail",
+            "length": "2.7 feet long",
+            "weight": "26 pounds",
+            "sound": "shrills (cries), mews, growls, hisses, and purrs",
+            "geography": "parts of Northwest Africa and much of sub-Saharan Africa",
+            "habitat": "thickly planted streams and rivers—unlike many other cat species, they like playing in water",
+            "food": "small mammals (rats, mice, and shrews), birds, occasional insects, frogs, lizards, and very rarely carrion",
+            "background": "serval.jpg"
+        },
+        "tiger": {
+            "name": "Tiger",
+            "kind":"big cat",
+            "color": "orange with black stripes, white with black stripes, or golden with cinnamon stripes",
+            "length": "6.5–9 (female) and 8.2–13 (male) feet long",
+            "weight": "140–370 (female) and 200–680 (males) pounds",
+            "sound": "growls, snarls hisses, and chuffles (communicating friendliness or pleasure)",
+            "geography": "13 countries across Asia",
+            "habitat": "tropical forests, evergreen forests, woodlands, mangrove swamps, grasslands, savanna, and rocky country",
+            "food": "a variety of prey ranging in size from termites to moose; deer species, pigs, cows, horses, goats, buffalos, and elephant calves",
+            "background": "tiger.jpg"
+        }
+    }
+}
